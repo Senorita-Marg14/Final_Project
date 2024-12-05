@@ -4,3 +4,13 @@ Over this most recent holiday break, I made a trip to visit my lovely grandparen
 I have always been very interested in the cybersecurity field especially how complex online scams have become today. So I wanted to create a repository for information on what measures are put in place to protect your data, and what you can do to keep your data secure. 
 
 # Table of Contents
+
+Emails
+
+Social Media 
+
+Websites
+
+Passwords 
+
+
