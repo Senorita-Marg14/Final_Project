@@ -10,5 +10,7 @@ When you attempt to log into your account, you may notice that after you enter y
 ## Sender Policy Framework (SPF) (Email)
 Sender Policy Framework helps to verify that the email that you are receiving a message from is the correct email and has not been spoofed (faked or made to look like a legitimate email address when it's not). SPF works by matching the IP addresses (A unique device name that identifies your device when it connects to the internet) to the email account being used. This process generates an approved list of IP addresses (ex. your phone, your laptop, your tablet) that are allowed to send emails from that account. If an email is sent from your account that doesn't match one of these devices, it may prompt the email to be marked as spam. The recipient's email account may also reference this list of approved IP addresses to double-check on their end that the email that they are receiving is legitimate. 
 
+[Home](README.md)
+
 
 
