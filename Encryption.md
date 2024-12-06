@@ -11,7 +11,9 @@ Transport Layer Security in its simplest form works to ensure that the data that
 ## End-to-End Encryption (E2EE) 
 End-to-end encryption works similarly to TLS, but its goals are a little bit different. TLS is more concerned with the encryption of the message while it's traveling to its destination whereas E2EE ensures that only the sender and recipient can read the contents of the message. Here's how E2EE works 
 1. Keys: E2EE encryption uses two sets of keys, a public and a private key. We can think of the public key as a locker. This public key is used to encrypt the message from the sender's side, which begins the data transfer. The private key is unique to only the recipient. We can think of this as the locker code, you can only decode the message if you have the correct private key to decrypt the message. This might sound a little confusing, but don't worry, you don't have to memorize the public and private keys, your messaging accounts do this for you.
-2. Decryption: Once the message is delivered to the recipient's inbox, the messaging server uses the recipient's private key to unlock the contents of the message, and if it's the correct key, congratulations, you can now read the contents of your message. 
+2. Decryption: Once the message is delivered to the recipient's inbox, the messaging server uses the recipient's private key to unlock the contents of the message, and if it's the correct key, congratulations, you can now read the contents of your message.
+
+[Home](README.md)
    
    
    
