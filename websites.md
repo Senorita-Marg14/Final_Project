@@ -5,6 +5,8 @@ When surfing the web, you're probably going to find a lot of cool websites to fi
 Safe websites will use features like [Secure Socket Layer (SSL)](WebProtocols.md) and [Transport Layer Security (TLS)](WebProtocols.md) to ensure that your data is protected on these websites. A good way to check that the website that you are using is secure is to check the address bar for the padlock icon, which indicates that the website is secure. Another good way to check for safety is that the website starts with [https://](WebProtocols.md)
 
 # Authentication
+[Authentication](Authentication.md) features are used on websites to ensure that only the correct user can view their data. Multifactor Authentication and other protocols are used to ensure this. 
 
 # Firewalls 
+Firewalls are used 
 
