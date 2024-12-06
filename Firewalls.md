@@ -16,6 +16,9 @@ As we've stated before, firewalls act as the bouncers for data coming onto your 
 1. Packet Filtering: The oldest and most basic type of firewall, it is used to asses small pieces of data attempting to come through the firewall. It does this by looking at the header of the data packet, which contains information about IP addresses, data sources, and the transfer protocols that that specific packet of data is using. Often these firewalls will have set rules for what a data packet needs to gain entry, and if a data packet does not meet these rules, it is not allowed through.
 2. Circuit-level Gateways: This type of firewall system works by only analyzing the [transfer protocol](Encryption.md) handshakes to ensure that the data has had a secure journey on its way to the firewall. If the firewall finds that the data did not use a safe transfer method, it will not be allowed through.
 3. Stateful Inspection: This is similar to the Packet Filtering firewall, except this one is a lot more in-depth. If Packet Filtering were you going through the metal detectors at TSA, Stateful Inspection is you getting a full-on pat down and inspection from a TSA agent. This firewall inspects every single packet that is attempting to enter the network, rather than just the packet header.
+
+
+[Home](README.md)
    
 
 
