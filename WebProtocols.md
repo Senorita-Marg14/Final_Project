@@ -9,7 +9,7 @@ The Secure Socket layer works to connect the user to the server that the user is
 4. Session Key Creation: A session key is created and used by both the client and the server throughout the time that the user is on the website. This ensures that the data the user is accessing or providing during the time they are on the website is secured and cannot be seen by people without the specific session key. This is perhaps when you hug your friend before you come in their home, or maybe a nice wave if you're not the hugging type. Once this step is complete, you can securely use the website you're on. 
 
 # HTTPS
-HTTPS stands for Hypertext Transfer Protocol Secure, and this is the primary protocol used to send data between web browsers and websites. This is the safest form of encryption on mainstream websites and a good indicator that your data will be safe while you are using this website. 
+HTTPS stands for Hypertext Transfer Protocol Secure, and this is the primary protocol used to send data between web browsers and websites. This is the safest form of encryption on mainstream websites and a good indicator that your data will be safe while you are using this website. SSL and TLS are parts of what make up HTTPS. 
 
 
 [Home](websites.md)
