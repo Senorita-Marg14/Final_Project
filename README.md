@@ -7,10 +7,9 @@ I have always been very interested in the cybersecurity field especially how com
 
 [Emails](Emails.md)
 
-Social Media 
+[Social Media](social_media.md]
 
 Websites
 
-Passwords 
 
 
