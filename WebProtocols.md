@@ -12,5 +12,5 @@ The Secure Socket layer works to connect the user to the server that the user is
 HTTPS stands for Hypertext Transfer Protocol Secure, and this is the primary protocol used to send data between web browsers and websites. This is the safest form of encryption on mainstream websites and a good indicator that your data will be safe while you are using this website. 
 
 
-[Home](Websites.md)
+[Home](websites.md)
 
