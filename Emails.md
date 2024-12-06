@@ -14,5 +14,7 @@ We all know that annoying feeling of trying to search for your order confirmatio
 ### Malware Protection
 Sometimes you might get a strange email that pops up in your inbox that tells you that you've won a prize and all you have to do is follow the link provided to claim it. Whatever you do, DO NOT CLICK THAT LINK, no matter how good the prize seems. This is a common scam that works to try and lead you to fake websites or install malware on your laptop. To protect you from these scams, email servers use [Attachment Scanning](Malware-Email.md) and [URL Scanning](Malware-Email.md) to prevent you from getting these scary links, but this isn't always a fool proof system. So if you think something sounds too good to be true, trust your gut. 
 
+[Home](README.md)
+
 
 
