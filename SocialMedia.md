@@ -13,3 +13,4 @@ Social media platforms use data encryption to send messages, make posts, and sto
 ### Content Moderation
 [Content moderation](ContentModeration.md) can be used to hide or show specific content. You may choose to mute an account because you think they're annoying, or just don't like the content that they're posting. Other times, the social media platform may mute or ban accounts that are making inappropriate or harmful posts. 
 
+[Home](README.md)
